@@ -12,3 +12,15 @@ Interpretation:
 Lower similarity = more drift from problematic Azure defaults = better noise resilience.
 
 Config 3 (most tuned toward no background misfires) wins.
+
+Summary Table
+Feature	Setting
+ASR	Deepgram (via websocket or MRCP bridge)
+initialSilenceTimeoutMs	8000
+endSilenceTimeoutMs	1200
+sensitivity	0.4
+bargeIn	Disabled
+confidenceThreshold	0.65
+noInputTimeout	8000
+noMatchTimeout	4000
+maxSpeechTimeout	10000
