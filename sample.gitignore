@@ -1,0 +1,20 @@
+# Ignore Python junk
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+
+# Ignore environment files
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Ignore outputs
+/outputs/*
+!outputs/.keep
+
+# Ignore audio
+/backgrounds/*.wav
