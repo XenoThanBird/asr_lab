@@ -62,6 +62,24 @@ Traditional ASR testing often lacks structured simulation environments, leading 
 -False Positives due to background noise
 -Expensive Manual QA cycles
 
+---
+
+## 🧠 About the Author
+
+Matthan Bird is a Voice AI Engineer and Conversational AI Architect passionate about designing better NLP/ASR systems.
+
+This project showcases engineering practices in:
+- Real-world noise simulation
+- Automated ASR sensitivity tuning
+- AI/IVR system optimization
+- End-to-end deployment from local pipelines to cloud-ready containers
+
+Available for collaborations and consultations in Conversational AI, NLP Optimization, and Voice Technology Innovation.
+
+📫 Contact: [www.linkedin.com/in/matthan-bird-jd-1b280642] | [matthanbird@gmail.com]
+
+---
+
 This lab automates the testing and tuning cycle, drastically improving:
 -ASR accuracy
 -Call Center Technologies, Virtual Assistant, & Customer Service NLU performance
