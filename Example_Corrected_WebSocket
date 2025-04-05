@@ -1,0 +1,16 @@
+json
+{
+  "bargeInEnable": false,
+  "bargeInThreshold": 0.6,
+  "noInputTimeout": 8000,
+  "noMatchTimeout": 4000,
+  "maxSpeechTimeout": 10000,
+  "recognitionEngineParameters": {
+    "profanityFilter": false,
+    "initialSilenceTimeoutMs": 8000,
+    "endSilenceTimeoutMs": 1000,
+    "speechContextPhrases": [],
+    "sensitivity": 0.5
+ },
+ "confidenceThreshold": 0.65
+}
