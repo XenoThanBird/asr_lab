@@ -1,0 +1,7 @@
+## Installation
+'''bash
+pip install .
+
+or build the docker container:
+docker build -t asr-lab .
+docker run -p 8501:8501 asr-lab
