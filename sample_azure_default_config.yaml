@@ -1,0 +1,17 @@
+asrEngine: AzureSpeech
+recognitionEngineParameters:
+  profanityFilter: true
+  initialSilenceTimeoutMs: 3000
+  endSilenceTimeoutMs: 800
+  speechContextPhrases: []
+  sensitivity: 0.7
+  model: general
+  language: en-US
+bargeInEnable: true
+bargeInThreshold: 0.5
+confidenceThreshold: 0.75
+noInputTimeout: 3000
+noMatchTimeout: 2000
+maxSpeechTimeout: 15000
+sessionParameters:
+  enablePartialResults: false
