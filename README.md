@@ -1,3 +1,12 @@
+# 🧠 ASR Lab - Automatic Speech Recognition Optimization Toolkit
+
+![ASR Lab](https://img.shields.io/badge/AI/NLP-ASR_Lab-blueviolet) 
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+![Streamlit](https://img.shields.io/badge/GUI-Streamlit-orange)
+![Docker](https://img.shields.io/badge/Containerized-Docker-green)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
+
 # asr_lab
 # Automatic Speech Recognition (ASR) Config Testing and Optimization Lab for Kore.ai IVR Systems.
 
