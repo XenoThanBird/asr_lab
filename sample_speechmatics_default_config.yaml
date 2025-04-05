@@ -1,0 +1,15 @@
+asrEngine: Speechmatics
+recognitionEngineParameters:
+  enable_partials: true
+  language: en-US
+  initial_silence_timeout: 6000
+  end_silence_timeout: 1000
+  vad_sensitivity: 0.5
+bargeInEnable: false
+bargeInThreshold: 0.6
+confidenceThreshold: 0.65
+noInputTimeout: 6000
+noMatchTimeout: 4000
+maxSpeechTimeout: 10000
+sessionParameters:
+  enablePartialResults: true
