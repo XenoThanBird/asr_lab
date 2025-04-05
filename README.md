@@ -58,9 +58,9 @@ The lab allows for:
 ## Why This Lab?
 
 Traditional ASR testing often lacks structured simulation environments, leading to:
--Overly aggressive No Match behaviors
--False Positives due to background noise
--Expensive Manual QA cycles
+- Overly aggressive No Match behaviors
+- False Positives due to background noise
+- Expensive Manual QA cycles
 
 ---
 
@@ -81,7 +81,7 @@ Available for collaborations and consultations in Conversational AI, NLP Optimiz
 ---
 
 This lab automates the testing and tuning cycle, drastically improving:
--ASR accuracy
--Call Center Technologies, Virtual Assistant, & Customer Service NLU performance
--First Call Resolution (FCR) metrics
--Customer Experience (CX) KPIs
+- ASR accuracy
+- Call Center Technologies, Virtual Assistant, & Customer Service NLU performance
+- First Call Resolution (FCR) metrics
+- Customer Experience (CX) KPIs
