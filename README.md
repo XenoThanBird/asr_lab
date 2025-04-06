@@ -1,16 +1,17 @@
 # asr_lab
 # Automatic Speech Recognition (ASR) Config Testing and Optimization Lab for Kore.ai IVR Systems.
 
-#Current Problem:
-#After migrating from Nuance Krypton to Azure Speech (via UniMRCP) for ASR (Automatic Speech Recognition) inside a Kore.ai-based IVR we encountered the following issue:
+**Current Problem:**
+After migrating from Nuance Krypton to Azure Speech (via UniMRCP) for ASR (Automatic Speech Recognition) inside a Kore.ai-based IVR we encountered the following issue:
 
-#Issue: Azure Speech Recognition hypersentivity - it hears "background noise" and causes immediate "No Match" failures even though all prompts are set to be non-barge-in capable (non-bargeable).
+**Issue:** 
+Azure Speech Recognition hypersentivity - it hears "background noise" and causes immediate "No Match" failures even though all prompts are set to be non-barge-in capable (non-bargeable).
 
-#Project Overview
+**Project Overview**
 
 This ASR Testing Lab provides a full professional framework to evaluate, optimize, and deploy Automatic Speech Recognition (ASR) configurations IVR and virtual voice assistant platforms, including Kore.ai, Azure Speech, Deepgram, and Speechmatics integrations.
 
-**Created by: ** Matthan Bird ** Assisted by OpenAI: ChatGPT 4o
+**Created by:** Matthan Bird
 **Version**: 1.0.0
 **License**: MIT
 **Year**: 2025
