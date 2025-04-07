@@ -19,7 +19,7 @@
 
 This ASR Testing Lab provides a full professional framework to evaluate, optimize, and deploy Automatic Speech Recognition (ASR) configurations IVR and virtual voice assistant platforms, including Kore.ai, Azure Speech, Deepgram, and Speechmatics integrations.
 
-**Created by: ** Matthan Bird** 
+**Created by:** Matthan Bird
 **Version**: 1.0.0
 **License**: MIT
 **Year**: 2025
