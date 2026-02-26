@@ -7,7 +7,7 @@
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 
-# asr_lab
+# asr_lab (deprecated see: Portfolio)
 # Automatic Speech Recognition (ASR) Config Testing and Optimization Lab for Kore.ai IVR Systems.
 
 #Current Problem:
